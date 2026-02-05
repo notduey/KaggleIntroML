@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Test fitting a model
+Test fitting a model (underfitting and overfitting)
 """
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_absolute_error
